@@ -4,5 +4,5 @@
 <project path="vendor/xiaomi/davinci" remote="derp-devices" name="vendor_xiaomi_davinci" revision="13"/>
 <project path="vendor/xiaomi/sm6150-common" remote="derp-devices" name="vendor_xiaomi_sm6150-common" revision="13"/>
 <project path="kernel/xiaomi/sm6150" remote="derp-devices" name="kernel_xiaomi_sm6150" revision="13"/>
-<project path="hardware/xiaomi" remote="github" name="adi8900/hardware_xiaomi" revision="derp"/>
+<project path="hardware/xiaomi" remote="github" name="adi8900/hardware_xiaomi" revision="derp-ifaa"/>
 </manifest>
